@@ -206,12 +206,11 @@ section{
 
 .home h3{
     color:var(--black);
-    font-size: 7.5vw;
+    font-size: 6.5vw;
     text-transform: uppercase;
 }
 
-.home img{
-    width:90%;
+.home iframe{
     margin:1rem 0;
 }
 
